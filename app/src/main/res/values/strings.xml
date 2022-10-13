@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FoodWastageApp</string>
+    <string name="app_name">TrashToTreasure</string>
     <string name="login">Login page</string>
     <string name="login_label">Login</string>
     <!-- TODO: Remove or change this placeholder text -->
